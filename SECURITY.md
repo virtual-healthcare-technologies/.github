@@ -6,7 +6,7 @@ This policy mirrors the contact published at `https://vht.ai/.well-known/securit
 
 ## Reporting a vulnerability
 
-**Email: security@vht.ai**
+**Email: echna@vht.ai**
 
 Please do **not** report security vulnerabilities through public GitHub issues, discussions or pull requests.
 
@@ -74,7 +74,7 @@ We consider research conducted under this policy to be authorized, and we will n
 - Social engineering, physical attacks and denial of service (see rules above)
 - Reports about the public `.github` and `community` repositories themselves (these contain no code)
 
-If you are unsure whether something is in scope, ask at security@vht.ai first.
+If you are unsure whether something is in scope, ask at echna@vht.ai first.
 
 ## Recognition
 

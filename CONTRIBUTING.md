@@ -10,7 +10,7 @@ Thank you for your interest in VHT.ai. This page explains what we accept from ex
 | **Feature requests** | Same repo, *Feature request* template. |
 | **Translation fixes** | Same repo, *Translation fix* template. The app ships in 7 UI languages; wrong, awkward or missing strings are always welcome. A broader translation program is coming soon. |
 | **Questions and ideas** | [Community Discussions](https://github.com/virtual-healthcare-technologies/community/discussions). |
-| **Security reports** | Email **security@vht.ai** only. See [SECURITY.md](./SECURITY.md). |
+| **Security reports** | Email **echna@vht.ai** only. See [SECURITY.md](./SECURITY.md). |
 | **Documentation fixes to these public repos** | Pull requests are welcome for typos and clarity in the `.github` and `community` repositories. |
 
 ## Code contributions

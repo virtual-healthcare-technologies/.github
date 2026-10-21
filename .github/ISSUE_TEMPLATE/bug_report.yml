@@ -14,7 +14,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for the report. Security vulnerabilities go to **security@vht.ai**, not here.
+        Thanks for the report. Security vulnerabilities go to **echna@vht.ai**, not here.
   - type: dropdown
     id: platform
     attributes:

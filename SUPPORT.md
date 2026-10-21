@@ -16,7 +16,7 @@ If you think you may have a medical emergency, contact your local emergency serv
 
 ## Security
 
-Found a vulnerability? Email **security@vht.ai**. Do not open a public issue. See [SECURITY.md](./SECURITY.md).
+Found a vulnerability? Email **echna@vht.ai**. Do not open a public issue. See [SECURITY.md](./SECURITY.md).
 
 ## Before you post
 
