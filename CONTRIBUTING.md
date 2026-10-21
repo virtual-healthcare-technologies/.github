@@ -15,13 +15,13 @@ Thank you for your interest in VHT.ai. This page explains what we accept from ex
 
 ## Code contributions
 
-The VHT.ai application is not open source. Code contributions to the product are **by invitation only**. If you would like to work with us, email contact@vht.ai with a short note about your background and interests.
+The VHT.ai application is not open source. Code contributions to the product are **by invitation only**. If you would like to work with us, email echna@vht.ai with a short note about your background and interests.
 
 ## The PHI rule
 
 **Never include personal health information (PHI)** — yours or anyone else's — in an issue, discussion, pull request, screenshot or log. This includes names together with health details, lab values, medications, diagnoses, dates of birth, device identifiers and similar data. Every issue template begins with a required checkbox confirming this.
 
-If you need to share sensitive details to reproduce a problem, email contact@vht.ai and we will arrange a private channel. Maintainers will remove PHI from public posts and label the item `phi-removed`.
+If you need to share sensitive details to reproduce a problem, email echna@vht.ai and we will arrange a private channel. Maintainers will remove PHI from public posts and label the item `phi-removed`.
 
 ## Developer Certificate of Origin (DCO)
 

@@ -7,7 +7,7 @@ body:
     id: phi
     attributes:
       label: Personal health information
-      description: Never include names with health details, lab values, medications, diagnoses, dates of birth or screenshots of your health data. If reproducing requires sensitive data, email contact@vht.ai instead.
+      description: Never include names with health details, lab values, medications, diagnoses, dates of birth or screenshots of your health data. If reproducing requires sensitive data, email echna@vht.ai instead.
       options:
         - label: I have not included any personal health information
           required: true

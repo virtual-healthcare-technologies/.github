@@ -4,7 +4,7 @@ VHT.ai is a member health app that brings your everyday health data together in 
 
 > **VHT.ai is in beta.** It provides educational guidance only and is not a substitute for professional medical advice, diagnosis or treatment. If you think you may have a medical emergency, call your local emergency number.
 
-**Website:** https://vht.ai · **Join the beta:** https://vht.ai/beta · **Contact:** contact@vht.ai
+**Website:** https://vht.ai · **Join the beta:** https://vht.ai/beta · **Contact:** echna@vht.ai
 
 ---
 
@@ -32,10 +32,10 @@ VHT.ai is a member health app that brings your everyday health data together in 
 | Suggest a better translation | [Open a translation fix](https://github.com/virtual-healthcare-technologies/community/issues/new/choose) (a dedicated translations repo is coming) |
 | Ask a question or share an idea | [Community Discussions](https://github.com/virtual-healthcare-technologies/community/discussions) |
 | Read announcements | [Announcements](https://github.com/virtual-healthcare-technologies/community/discussions/categories/announcements) |
-| Get help as a member | In-app help, https://vht.ai/support, or contact@vht.ai |
+| Get help as a member | In-app help, https://vht.ai/support, or echna@vht.ai |
 | Report a security vulnerability | **echna@vht.ai**, see our [Security Policy](https://github.com/virtual-healthcare-technologies/.github/blob/main/SECURITY.md) and [security.txt](https://vht.ai/.well-known/security.txt). Please do not open a public issue. |
-| Privacy questions or data requests | contact@vht.ai, see the [Privacy Policy](https://vht.ai/privacy) |
-| Press, partnerships, anything else | contact@vht.ai |
+| Privacy questions or data requests | echna@vht.ai, see the [Privacy Policy](https://vht.ai/privacy) |
+| Press, partnerships, anything else | echna@vht.ai |
 
 ---
 
@@ -43,7 +43,7 @@ VHT.ai is a member health app that brings your everyday health data together in 
 
 **Never post personal health information (PHI)** in issues, discussions or pull requests. Not yours, not anyone else's. Describe the problem without the data: "the blood-pressure chart shows the wrong unit", not your readings. Every issue template starts with a checkbox confirming this.
 
-If reproducing a bug needs something sensitive, email contact@vht.ai and we will arrange a private channel. Anything containing health information in a public thread will be edited by a maintainer and labelled `phi-removed`.
+If reproducing a bug needs something sensitive, email echna@vht.ai and we will arrange a private channel. Anything containing health information in a public thread will be edited by a maintainer and labelled `phi-removed`.
 
 ---
 

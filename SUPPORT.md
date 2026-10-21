@@ -3,8 +3,8 @@
 ## Members (using the VHT.ai app)
 
 - **In-app help** — open the Help or Support section inside the app for guides and to contact us directly.
-- **Email** — contact@vht.ai
-- **Account, billing or privacy questions** — email contact@vht.ai. Please do not post account details or health information on GitHub.
+- **Email** — echna@vht.ai
+- **Account, billing or privacy questions** — email echna@vht.ai. Please do not post account details or health information on GitHub.
 
 If you think you may have a medical emergency, contact your local emergency services. VHT.ai provides educational guidance only and is not a substitute for professional medical advice, diagnosis, or treatment.
 
@@ -20,4 +20,4 @@ Found a vulnerability? Email **echna@vht.ai**. Do not open a public issue. See [
 
 ## Before you post
 
-Never include personal health information (PHI) in any issue, discussion or pull request — yours or anyone else's. Every issue template starts with a checkbox confirming this. If reproducing a problem requires sensitive data, email contact@vht.ai and we will set up a private channel.
+Never include personal health information (PHI) in any issue, discussion or pull request — yours or anyone else's. Every issue template starts with a checkbox confirming this. If reproducing a problem requires sensitive data, email echna@vht.ai and we will set up a private channel.
