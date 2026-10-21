@@ -26,7 +26,7 @@ Preferred language: English. We do not currently publish a PGP key; if you need 
 | Acknowledgement of your report | Within **1 business day** (24 hours, Monday to Friday) |
 | Initial triage and severity assessment | Within **3 business days** |
 | Status updates | At least every **7 days** while the issue is open |
-| Fix targets after confirmation | Critical: as soon as possible, typically within 72 hours · High: 7 days · Medium: 30 days · Low: 90 days |
+| Fix targets after confirmation | Critical: within 48 hours · High: 7 days · Medium: 30 days · Low: next release cycle |
 
 Timelines are targets, not guarantees; complex issues may take longer and we will tell you if that is the case.
 
