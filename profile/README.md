@@ -4,7 +4,7 @@ VHT.ai is a member health app that brings your everyday health data together in 
 
 > **VHT.ai is in beta.** It provides educational guidance only and is not a substitute for professional medical advice, diagnosis or treatment. If you think you may have a medical emergency, call your local emergency number.
 
-**Website:** https://vht.ai · **Join the beta:** https://vht.ai/beta · **Contact:** echna@vht.ai
+**Website:** https://vht.ai · **Join the beta:** https://vht.ai/beta · **Discord:** https://discord.gg/qXaQMzubV7 · **Contact:** echna@vht.ai
 
 ---
 
@@ -30,9 +30,9 @@ VHT.ai is a member health app that brings your everyday health data together in 
 | Report a bug | [Open a bug report](https://github.com/virtual-healthcare-technologies/community/issues/new/choose) in the **community** repo |
 | Request a feature | [Open a feature request](https://github.com/virtual-healthcare-technologies/community/issues/new/choose) |
 | Suggest a better translation | [Open a translation fix](https://github.com/virtual-healthcare-technologies/community/issues/new/choose) (a dedicated translations repo is coming) |
-| Ask a question or share an idea | [Community Discussions](https://github.com/virtual-healthcare-technologies/community/discussions) |
+| Ask a question or share an idea | [Community Discussions](https://github.com/virtual-healthcare-technologies/community/discussions) or our [Discord](https://discord.gg/qXaQMzubV7) |
 | Read announcements | [Announcements](https://github.com/virtual-healthcare-technologies/community/discussions/categories/announcements) |
-| Get help as a member | In-app help, https://vht.ai/support, or echna@vht.ai |
+| Get help as a member | In-app help, https://vht.ai/support, the `#help` forum on [Discord](https://discord.gg/qXaQMzubV7), or echna@vht.ai |
 | Report a security vulnerability | **echna@vht.ai**, see our [Security Policy](https://github.com/virtual-healthcare-technologies/.github/blob/main/SECURITY.md) and [security.txt](https://vht.ai/.well-known/security.txt). Please do not open a public issue. |
 | Privacy questions or data requests | echna@vht.ai, see the [Privacy Policy](https://vht.ai/privacy) |
 | Press, partnerships, anything else | echna@vht.ai |

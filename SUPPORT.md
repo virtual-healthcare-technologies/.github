@@ -1,5 +1,9 @@
 # Support
 
+## Community chat
+
+Join our Discord: https://discord.gg/qXaQMzubV7 — public `#help` forum, or open a private ticket in `#tickets`. Same rule as everywhere: no personal health information.
+
 ## Members (using the VHT.ai app)
 
 - **In-app help** — open the Help or Support section inside the app for guides and to contact us directly.
