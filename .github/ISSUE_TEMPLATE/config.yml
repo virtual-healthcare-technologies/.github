@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/virtual-healthcare-technologies/.github/blob/main/SECURITY.md
+    about: Do not open an issue. Email security@vht.ai (see policy).
+  - name: Questions and ideas
+    url: https://github.com/virtual-healthcare-technologies/community/discussions
+    about: Ask a question or share an idea in Community Discussions.
+  - name: Member support
+    url: https://vht.ai
+    about: Account, billing or privacy questions - use in-app help or email contact@vht.ai. Never post health data on GitHub.

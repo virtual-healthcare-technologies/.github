@@ -1,0 +1,51 @@
+name: Feature request
+description: Suggest an improvement or a new capability for VHT.ai.
+title: "[Feature]: "
+labels: ["feature"]
+body:
+  - type: checkboxes
+    id: phi
+    attributes:
+      label: Personal health information
+      description: Never include names with health details, lab values, medications, diagnoses, dates of birth or screenshots of your health data.
+      options:
+        - label: I have not included any personal health information
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the situation, not the solution. "When I ... I wish I could ..."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: If you have an idea of how it should work, describe it here.
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      multiple: true
+      options:
+        - Health Index
+        - ECHNA (AI companion)
+        - Records and lab results
+        - Devices and wearables
+        - Daily logging
+        - Notifications and reminders
+        - Languages and translations
+        - Accessibility
+        - Account and privacy
+        - Other
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you have considered
+    validations:
+      required: false

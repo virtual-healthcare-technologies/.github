@@ -1,0 +1,59 @@
+name: Translation fix
+description: Report a wrong, awkward, untranslated or missing string in one of the app's UI languages.
+title: "[i18n]: "
+labels: ["translation"]
+body:
+  - type: checkboxes
+    id: phi
+    attributes:
+      label: Personal health information
+      description: Never include names with health details, lab values, medications, diagnoses, dates of birth or screenshots of your health data.
+      options:
+        - label: I have not included any personal health information
+          required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: Which UI language is affected? Example "French (fr)".
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where in the app
+      description: Screen, page or feature where the text appears. Example "Settings > Notifications" or "vht.ai home page".
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text
+      description: Copy the text exactly as it appears now.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested text
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is the current text wrong?
+      description: Grammar, tone, mistranslation, truncation, wrong terminology, not translated at all, etc.
+    validations:
+      required: false
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options:
+        - iOS
+        - Android
+        - Web
+        - vht.ai website
+    validations:
+      required: false

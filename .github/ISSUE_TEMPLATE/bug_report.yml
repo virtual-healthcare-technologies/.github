@@ -1,0 +1,60 @@
+name: Bug report
+description: Something in the VHT.ai app or website is not working as expected.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: checkboxes
+    id: phi
+    attributes:
+      label: Personal health information
+      description: Never include names with health details, lab values, medications, diagnoses, dates of birth or screenshots of your health data. If reproducing requires sensitive data, email contact@vht.ai instead.
+      options:
+        - label: I have not included any personal health information
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Security vulnerabilities go to **security@vht.ai**, not here.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - iOS
+        - Android
+        - Web (desktop browser)
+        - Web (mobile browser)
+        - vht.ai website
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version and device
+      description: Found in the app settings. Example "1.4.2, iPhone 15, iOS 18.1" or "Chrome 130 on Windows 11".
+    validations:
+      required: false
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+        3. See error
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots are welcome only if they contain no personal or health data.
+    validations:
+      required: false
